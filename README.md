@@ -114,11 +114,6 @@ reports/.gitkeep
 - Does not implement full FMEA worksheets or claim ISO/IATF compliance
 - Severity bands are deliberate simplifications (ranges/grades, not false-precise RPN products)
 
----
-
-## Interview one-liner
-
-> “I applied process-assurance thinking to AI evaluation itself: model output can fail, and the review process can fail. AEPA is a small rule-based prototype that flags evaluation-side risks and recommends accept, re-review, or hold — using synthetic data and transparent severity logic.”
 
 ---
 
